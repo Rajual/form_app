@@ -1,0 +1,7 @@
+{
+    "home":{
+        "title": "Que deseas hacer?",
+        "form_user_button":"Registar usuario",
+        "list_user_button":"Ver usuario registrados"
+    }
+}
